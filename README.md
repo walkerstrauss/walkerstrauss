@@ -24,7 +24,12 @@ I am a senior undergraduate student at Cornell University graduating in May 2025
 - C++
 - R
 - SPSS
-- 
+- HTML
+- CSS
+- JavaScript
+- OOP
+- Data Structures and Algorithms
+- Game Design and Development
 -->
 
 
