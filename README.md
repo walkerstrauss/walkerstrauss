@@ -54,7 +54,7 @@ I am a senior undergraduate student at Cornell University graduating in May 2025
     <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-    <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="
+    <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
 </p>
 
 ## How to Reach Me 
