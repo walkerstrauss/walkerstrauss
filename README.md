@@ -57,7 +57,7 @@ I am a senior undergraduate student at Cornell University graduating in May 2025
     <img title="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB"/>
   </a>
   <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noopener noreferrer">
-    <img title="SPSS" src="https://upload.wikimedia.org/wikipedia/commons/8/86/SPSS_Statistics_Logo.png" width="40" alt="SPSS"/>
+    <img title="SPSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/SPSS_logo.svg/2560px-SPSS_logo.svg.png" width="40" alt="SPSS"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
@@ -72,6 +72,7 @@ I am a senior undergraduate student at Cornell University graduating in May 2025
     <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
   </a>
   </p>
+  
 ## How to Reach Me 
 - School Email: [was236@cornell.edu](mailto:was236@cornell.edu)
 - Personal Email: [walkerstrauss@gmail.com](mailto:walkerstrauss@gmail.com)
