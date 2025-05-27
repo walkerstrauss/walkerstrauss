@@ -43,20 +43,35 @@ I am a senior undergraduate student at Cornell University graduating in May 2025
     <img title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
   </a>
 
-  <!-- Tools -->
+  <!-- Tools & Frameworks -->
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noopener noreferrer">
     <img title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity"/>
   </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
+    <img title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener noreferrer">
+    <img title="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB"/>
+  </a>
+  <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noopener noreferrer">
+    <img title="SPSS" src="https://upload.wikimedia.org/wikipedia/commons/8/86/SPSS_Statistics_Logo.png" width="40" alt="SPSS"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-</p>
-
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+    <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+  </a>
+  </p>
 ## How to Reach Me 
 - School Email: [was236@cornell.edu](mailto:was236@cornell.edu)
 - Personal Email: [walkerstrauss@gmail.com](mailto:walkerstrauss@gmail.com)
