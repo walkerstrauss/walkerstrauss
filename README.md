@@ -56,9 +56,9 @@ I am a senior undergraduate student at Cornell University graduating in May 2025
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener noreferrer">
     <img title="MATLAB" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="MATLAB"/>
   </a>
-  <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noopener noreferrer">
     <img title="SPSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/SPSS_logo.svg/2560px-SPSS_logo.svg.png" width="40" alt="SPSS"/>
-</a>
+</a> --> 
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   </a>
