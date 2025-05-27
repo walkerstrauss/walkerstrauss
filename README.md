@@ -1,5 +1,3 @@
-## About me
-
 <!--
 **walkerstrauss/walkerstrauss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
