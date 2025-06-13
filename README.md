@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-I am a recent Cornell University graduate with a BA in Psychology and a minor in Game Design. I work as a research assistant in both the Affect and Cognition Lab (ACLAB) and Meta Design Lab at Cornell, where I have equipped myself with MRI data analysis and iterative product design methodologies. I also worked as project lead for Mahsjong, a 1v1 strategy-based game developed in C++ with a team of eight, and have experience with user-centered interactive web design in HTML, CSS, Javascript, and React.
+I am a recent Cornell University graduate with a BA in Psychology and a minor in Game Design. I work as a research assistant in both the Affect and Cognition Lab (ACLAB) and Meta Design Lab at Cornell, where I have equipped myself with MRI data management and iterative product design methodologies. I also worked as project lead for Mahsjong, a 1v1 strategy-based game developed in C++ with a team of eight, and have experience with user-centered interactive web design in HTML, CSS, Javascript, and React.
 
 ## Languages and Tools
 <p align="left">
